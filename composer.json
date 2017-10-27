@@ -13,14 +13,7 @@
         "OSL-3.0",
         "AFL-3.0"
     ],
-    "extra": {
-        "map": [
-            [
-                "*",
-                "Ccmt/Payment/"
-            ]
-        ]
-    },
+  
     "autoload": {
         "files": [ "registration.php" ],
         "psr-4": {
